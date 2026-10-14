@@ -11,7 +11,7 @@ This portfolio project explores e-commerce orders, products, and customer data t
 
 ## Dashboard
 
-![E-Commerce Sales & Customer Analytics dashboard](screenshots/dashboard.png)
+![E-Commerce Sales & Customer Analytics dashboard](screenshots/Dashboard.png)
 
 The dashboard includes KPI cards for revenue, profit, total orders, delivered orders, and cancellation rate, alongside charts for monthly revenue, revenue by product category, and the top 10 customers by revenue.
 
